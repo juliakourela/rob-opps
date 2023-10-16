@@ -1,0 +1,19 @@
+{
+  "name": "rob-opps",
+  "version": "1.0.0",
+  "description": "simple opportunities board for Robertson",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliakourela/rob-opps.git"
+  },
+  "author": "juliakourela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliakourela/rob-opps/issues"
+  },
+  "homepage": "https://github.com/juliakourela/rob-opps#readme"
+}
